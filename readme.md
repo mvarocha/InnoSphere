@@ -28,6 +28,6 @@ Ferramentas de análise e avaliação para ajudar as equipes a identificar ideia
 
 ## Personas
 
-<img src='./images/Persona_Ana-Silva.png'>
-<img src='./images/Persona_Pedro-Oliveira.png'>
-<img src='./images/Persona_Maria-Santos.png'>
+<img src='./images/Persona-Ana_Silva.png'>
+<img src='./images/Persona-Pedro_Oliveira.png'>
+<img src='./images/Persona-Maria_Santos.png'>
