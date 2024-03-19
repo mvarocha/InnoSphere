@@ -25,3 +25,9 @@ Recursos para experimentação e prototipagem rápida, permitindo que as equipes
 ### Análise e Avaliação de Ideias
 
 Ferramentas de análise e avaliação para ajudar as equipes a identificar ideias mais promissoras e tomar decisões fundamentadas sobre quais projetos seguir em frente.
+
+## Personas
+
+<img src='./images/Persona_Ana-Silva.png'>
+<img src='./images/Persona_Pedro-Oliveira.png'>
+<img src='./images/Persona_Maria-Santos.png'>
