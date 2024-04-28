@@ -26,6 +26,10 @@ Recursos para experimentação e prototipagem rápida, permitindo que as equipes
 
 Ferramentas de análise e avaliação para ajudar as equipes a identificar ideias mais promissoras e tomar decisões fundamentadas sobre quais projetos seguir em frente.
 
+## Project Model Canvas
+
+<img src='./images/ProjectModelCanvas.jpg'>
+
 ## Personas
 
 <img src='./images/Persona-Ana_Silva.png'>
