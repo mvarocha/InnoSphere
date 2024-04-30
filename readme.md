@@ -32,7 +32,7 @@ Ferramentas de análise e avaliação para ajudar as equipes a identificar ideia
 
 ## Personas
 
-[Clique aqui para ver o documento](https://github.com/mvarocha/InnoSphere/edit/main/readme.md)
+[Clique aqui para ver o documento](https://github.com/mvarocha/InnoSphere/blob/main/personas/Personas%207297db1e7b134128af173608e19a9eda.md)
 
 <img src='./images/Persona-Ana_Silva.png'>
 <img src='./images/Persona-Pedro_Oliveira.png'>
