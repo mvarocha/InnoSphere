@@ -11,7 +11,8 @@
 [Product Backlog](https://github.com/mvarocha/innosphere?tab=readme-ov-file#product-backlog) <br>
 [User Stories](https://github.com/mvarocha/innosphere?tab=readme-ov-file#user-stories) <br>
 [Plano de Releases](https://github.com/mvarocha/innosphere?tab=readme-ov-file#plano-de-releases) <br>
-[Roadmap](https://github.com/mvarocha/innosphere?tab=readme-ov-file#roadmap)
+[Roadmap](https://github.com/mvarocha/innosphere?tab=readme-ov-file#roadmap) <br>
+[Simulação de distribuição do backlog](https://github.com/mvarocha/innosphere?tab=readme-ov-file#simula%C3%A7%C3%A3o-de-distribui%C3%A7%C3%A3o-do-backlog)
 
 
 # Visão do Produto
