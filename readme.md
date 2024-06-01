@@ -12,7 +12,8 @@
 [User Stories](https://github.com/mvarocha/innosphere?tab=readme-ov-file#user-stories) <br>
 [Plano de Releases](https://github.com/mvarocha/innosphere?tab=readme-ov-file#plano-de-releases) <br>
 [Roadmap](https://github.com/mvarocha/innosphere?tab=readme-ov-file#roadmap) <br>
-[Simulação de distribuição do backlog](https://github.com/mvarocha/innosphere?tab=readme-ov-file#simula%C3%A7%C3%A3o-de-distribui%C3%A7%C3%A3o-do-backlog)
+[Simulação de Distribuição do Backlog](https://github.com/mvarocha/innosphere?tab=readme-ov-file#simula%C3%A7%C3%A3o-de-distribui%C3%A7%C3%A3o-do-backlog) <br>
+[Plano de Custos do Projeto InnoSphere](https://github.com/mvarocha/innosphere?tab=readme-ov-file#plano-de-custos-do-projeto-innosphere)
 
 
 # Visão do Produto
@@ -399,7 +400,7 @@ Eu como novo usuário, gostaria de ter acesso a tutoriais e documentação compl
 - **Sprint Review:** Último dia da sprint (máximo de 2 horas)
 - **Sprint Retrospective:** Último dia da sprint (máximo de 1 hora)
 
-### Sprint Distribution and Ceremonies Schedule
+### Distribuição de Sprint e Cronograma de Cerimônias
 
 #### Sprint 1 (01/03/2024 - 21/03/2024)
 
@@ -467,7 +468,7 @@ Eu como novo usuário, gostaria de ter acesso a tutoriais e documentação compl
   - Documentação completa do produto
   - Tutoriais e materiais de onboarding
 
-### Summary of Ceremonies and Schedule
+### Resumo das Cerimônias e Cronograma
 #### Sprint Planning
 
 - **When:** Primeiro dia de cada sprint (01/03, 22/03, 12/04, 03/05, 24/05)
