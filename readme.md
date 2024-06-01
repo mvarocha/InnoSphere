@@ -487,3 +487,112 @@ Eu como novo usuário, gostaria de ter acesso a tutoriais e documentação compl
 
 - **When:** Último dia de cada sprint (21/03, 11/04, 02/05, 23/05, 13/06)
 - **Duration:** Máximo de 1 hora
+
+## Plano de Custos do Projeto InnoSphere
+
+**Período do Projeto:** 01/03/2024 a 14/06/2024  
+**Número de Releases:** 2 (12/04/2024 e 24/05/2024)
+
+#### Premissas e Hipóteses
+
+1. **Equipe de Desenvolvimento:**
+   - 5 desenvolvedores
+   - 1 líder de projeto (acumulando papéis de PO e SM)
+
+2. **Custo da Mão de Obra:**
+   - Desenvolvedor: R$ 10.000,00/mês
+   - Líder de Projeto: R$ 15.000,00/mês
+
+3. **Ferramentas e Softwares:**
+   - Licenças de software de desenvolvimento (IDE, ferramentas de design, etc.): R$ 5.000,00
+   - Serviços de hospedagem e infraestrutura na nuvem: R$ 1.500,00/mês
+   - Ferramentas de comunicação e colaboração (Slack, Trello, etc.): R$ 1.000,00/mês
+
+4. **Despesas Operacionais:**
+   - Custos de escritório (aluguel, internet, eletricidade, etc.): R$ 3.000,00/mês
+
+5. **Marketing e Divulgação:**
+   - Custo inicial para pesquisa de mercado e estratégias de marketing: R$ 8.000,00
+   - Custo contínuo de marketing e publicidade: R$ 2.000,00/mês
+
+6. **Testes e Garantia de Qualidade:**
+   - Ferramentas de teste automatizado e QA: R$ 3.000,00
+
+7. **Capacitação e Treinamento:**
+   - Cursos e workshops para a equipe: R$ 2.000,00
+
+8. **Outros Custos:**
+   - Contingências diversas (10% do custo total estimado)
+
+### Cálculo de Custos
+
+#### Custos Mensais Fixos
+- **Desenvolvedores (5):** R$ 10.000,00 * 5 = R$ 50.000,00
+- **Líder de Projeto:** R$ 15.000,00
+- **Infraestrutura e Ferramentas:**
+  - Hospedagem e infraestrutura: R$ 1.500,00
+  - Ferramentas de comunicação: R$ 1.000,00
+- **Despesas Operacionais:** R$ 3.000,00
+- **Marketing e Divulgação:** R$ 2.000,00
+
+**Total Mensal Fixo:** R$ 50.000,00 + R$ 15.000,00 + R$ 1.500,00 + R$ 1.000,00 + R$ 3.000,00 + R$ 2.000,00 = R$ 72.500,00
+
+#### Custos Únicos
+- **Ferramentas e Software (licenças):** R$ 5.000,00
+- **Pesquisa de Mercado e Estratégias de Marketing:** R$ 8.000,00
+- **Ferramentas de Teste Automatizado e QA:** R$ 3.000,00
+- **Capacitação e Treinamento:** R$ 2.000,00
+
+**Total Único:** R$ 5.000,00 + R$ 8.000,00 + R$ 3.000,00 + R$ 2.000,00 = R$ 18.000,00
+
+### Plano de Custos por Release
+
+**Período do Projeto:** 15 semanas
+
+- **Total de Meses:** 3 meses + 3 semanas
+  - Meses completos: Março, Abril, Maio
+  - Semanas adicionais: 2 semanas de Junho (aproximadamente meio mês)
+
+#### Custo por Release
+
+**Release 1 (12/04/2024):**
+- **Período:** 01/03/2024 a 12/04/2024
+- **Duração:** 6 semanas (1.5 meses)
+- **Custo Fixo Mensal:** R$ 72.500,00 * 1.5 = R$ 108.750,00
+- **Custo Único:** R$ 18.000,00 (todo o custo único é aplicado no início do projeto)
+
+**Total Release 1:** R$ 108.750,00 + R$ 18.000,00 = R$ 126.750,00
+
+**Release 2 (24/05/2024):**
+- **Período:** 13/04/2024 a 24/05/2024
+- **Duração:** 6 semanas (1.5 meses)
+- **Custo Fixo Mensal:** R$ 72.500,00 * 1.5 = R$ 108.750,00
+
+**Total Release 2:** R$ 108.750,00
+
+**Finalização do Projeto (25/05/2024 a 14/06/2024):**
+- **Duração:** 3 semanas (0.75 meses)
+- **Custo Fixo Mensal:** R$ 72.500,00 * 0.75 = R$ 54.375,00
+
+**Total Finalização:** R$ 54.375,00
+
+### Resumo dos Custos
+
+1. **Release 1:** R$ 126.750,00
+2. **Release 2:** R$ 108.750,00
+3. **Finalização:** R$ 54.375,00
+4. **Contingências Diversas (10% do Total):** (R$ 126.750,00 + R$ 108.750,00 + R$ 54.375,00) * 0.10 = R$ 28.987,50
+
+**Custo Total do Projeto:** R$ 126.750,00 + R$ 108.750,00 + R$ 54.375,00 + R$ 28.987,50 = R$ 318.862,50
+
+---
+
+### Plano de Custos do Projeto InnoSphere
+
+| Item                          | Custo (R$)        |
+|-------------------------------|-------------------|
+| **Release 1**                 | 126.750,00        |
+| **Release 2**                 | 108.750,00        |
+| **Finalização**               | 54.375,00         |
+| **Contingências Diversas**    | 28.987,50         |
+| **Custo Total do Projeto**    | 318.862,50        |
