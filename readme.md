@@ -315,3 +315,61 @@ Eu como novo usuário, gostaria de ter acesso a tutoriais e documentação compl
 - Painéis de controle e relatórios funcionando corretamente.
 - Integrações externas funcionando.
 - Interface responsiva e testes de usabilidade concluídos.
+
+## Roadmap
+
+### Sprint 1 (01/03/2024 - 14/03/2024)
+
+- Captura de Ideias: Formulário de submissão de ideias com categorias e tags.
+- Organização e Priorização de Ideias: Implementação inicial de votação e classificação.
+- Colaboração e Comunicação: Seção de comentários.
+
+### Sprint 2 (15/03/2024 - 28/03/2024)
+
+- Colaboração e Comunicação: Notificações em tempo real.
+- Segurança e Permissões: Sistema de autenticação e autorização básico.
+- Interface de Usuário: Design inicial da interface.
+
+### Sprint 3 (29/03/2024 - 11/04/2024)
+
+- Organização e Priorização de Ideias: Interface de visualização e gerenciamento.
+- Colaboração e Comunicação: Integração com Slack e Microsoft Teams.
+- Testes e ajustes para Release 1.
+
+### Release 1: 12/04/2024
+
+### Sprint 4 (12/04/2024 - 25/04/2024)
+
+- Gestão de Projetos Criativos: Ferramentas de gerenciamento de tarefas e criação de projetos.
+- Prototipagem e Experimentação: Ferramentas para criação de protótipos.
+- Interface de Usuário: Melhorias com base no feedback inicial.
+### Sprint 5 (26/04/2024 - 09/05/2024)
+
+- Painéis de Controle e Relatórios: Painel de controle personalizado e relatórios de desempenho.
+- Integrações Externas: Integração com Google Drive e Dropbox.
+- Feedback dos Usuários: Coleta e análise de feedback contínuo.
+
+### Sprint 6 (10/05/2024 - 23/05/2024)
+
+- Interface de Usuário e Experiência: Testes de usabilidade e melhorias.
+- Segurança e Permissões: Refinamento das permissões de acesso.
+- Preparação e ajustes para Release 2.
+
+### Release 2: 24/05/2024
+
+### Sprint 7 (25/05/2024 - 07/06/2024)
+
+- Feedback dos Usuários: Implementação de melhorias com base no feedback.
+- Interface de Usuário: Ajustes finais e personalização da interface.
+- Testes e validação final das funcionalidades.
+
+### Sprint 8 (08/06/2024 - 14/06/2024)
+
+- Preparação para o lançamento final.
+- Documentação completa do produto.
+- Tutoriais e materiais de onboarding.
+
+> **OBSERVAÇÕES**<br>
+**Releases Incrementais:** Cada release inclui funcionalidades essenciais que oferecem valor aos usuários e permitem feedback contínuo para melhorias.<br>
+**Feedback e Ajustes:** Feedback dos usuários será coletado continuamente após cada release para implementar melhorias.<br>
+**Documentação e Onboarding:** A documentação e o processo de onboarding serão preparados e refinados ao longo do desenvolvimento para garantir uma boa experiência aos novos usuários.
