@@ -2,6 +2,18 @@
     <img src='./images/InnoSphere.png' width='400'>
 </p>
 
+<center><h3>Sumário</h3></center>
+
+[Visão do Produto](https://github.com/mvarocha/innosphere?tab=readme-ov-file#vis%C3%A3o-do-produto) <br>
+[Principais Características e Benefícios](https://github.com/mvarocha/innosphere?tab=readme-ov-file#principais-caracter%C3%ADsticas-e-benef%C3%ADcios) <br>
+[Project Model Canvas](https://github.com/mvarocha/innosphere?tab=readme-ov-file#project-model-canvas) <br>
+[Personas](https://github.com/mvarocha/innosphere?tab=readme-ov-file#personas) <br>
+[Product Backlog](https://github.com/mvarocha/innosphere?tab=readme-ov-file#product-backlog) <br>
+[User Stories](https://github.com/mvarocha/innosphere?tab=readme-ov-file#user-stories) <br>
+[Plano de Releases](https://github.com/mvarocha/innosphere?tab=readme-ov-file#plano-de-releases) <br>
+[Roadmap](https://github.com/mvarocha/innosphere?tab=readme-ov-file#roadmap)
+
+
 # Visão do Produto
 Nosso produto é um sistema de gestão de criatividade e inovação, projetado para equipes que buscam uma abordagem colaborativa e criativa no desenvolvimento de novas ideias e projetos. Nosso objetivo é fornecer uma plataforma que inspire a criatividade e colaboração entre os membros da equipe e promova a experimentação e inovação.
 
@@ -373,3 +385,104 @@ Eu como novo usuário, gostaria de ter acesso a tutoriais e documentação compl
 **Releases Incrementais:** Cada release inclui funcionalidades essenciais que oferecem valor aos usuários e permitem feedback contínuo para melhorias.<br>
 **Feedback e Ajustes:** Feedback dos usuários será coletado continuamente após cada release para implementar melhorias.<br>
 **Documentação e Onboarding:** A documentação e o processo de onboarding serão preparados e refinados ao longo do desenvolvimento para garantir uma boa experiência aos novos usuários.
+
+## Simulação de Distribuição do Backlog
+
+> **Período do Projeto:** 01/03/2024 a 14/06/2024
+**Número de Semanas:** 15 semanas
+**Número de Sprints de 3 semanas:** 5 Sprints
+
+### Cerimônias Ágeis
+- **Sprint Planning:** Primeiro dia da sprint (máximo de 4 horas)
+- **Daily Stand-up:** Todos os dias da sprint (15 minutos)
+- **Sprint Review:** Último dia da sprint (máximo de 2 horas)
+- **Sprint Retrospective:** Último dia da sprint (máximo de 1 hora)
+
+### Sprint Distribution and Ceremonies Schedule
+
+#### Sprint 1 (01/03/2024 - 21/03/2024)
+
+- **Sprint Planning:** 01/03/2024
+- **Daily Stand-up:** Todos os dias
+- **Sprint Review:** 21/03/2024
+- **Sprint Retrospective:** 21/03/2024
+- **Backlog Items:**
+  - Captura de Ideias (formulário de submissão, categorização, tags)
+  - Organização e Priorização de Ideias (votação e classificação inicial)
+  - Colaboração e Comunicação (seção de comentários)
+  - Segurança e Permissões (sistema de autenticação e autorização básico)
+
+### Sprint 2 (22/03/2024 - 11/04/2024)
+
+- **Sprint Planning:** 22/03/2024
+- **Daily Stand-up:** Todos os dias
+- **Sprint Review:** 11/04/2024
+- **Sprint Retrospective:** 11/04/2024
+- **Backlog Items:**
+  - Colaboração e Comunicação (notificações em tempo real)
+  - Organização e Priorização de Ideias (interface de visualização e gerenciamento)
+  - Interface de Usuário (design inicial)
+  - Testes e ajustes para Release 1
+
+### Release 1: 12/04/2024
+
+### Sprint 3 (12/04/2024 - 02/05/2024)
+
+- **Sprint Planning:** 12/04/2024
+- **Daily Stand-up:** Todos os dias
+- **Sprint Review:** 02/05/2024
+- **Sprint Retrospective:** 02/05/2024
+- **Backlog Items:**
+  - Gestão de Projetos Criativos (ferramentas de gerenciamento de tarefas e criação de projetos)
+  - Prototipagem e Experimentação (ferramentas para criação de protótipos)
+  - Interface de Usuário (melhorias com base no feedback inicial)
+
+### Sprint 4 (03/05/2024 - 23/05/2024)
+
+- **Sprint Planning:** 03/05/2024
+- **Daily Stand-up:** Todos os dias
+- **Sprint Review:** 23/05/2024
+- **Sprint Retrospective:** 23/05/2024
+- **Backlog Items:**
+  - Painéis de Controle e Relatórios (painel de controle personalizado e relatórios de desempenho)
+  - Integrações Externas (integração com Google Drive e Dropbox)
+  - Feedback dos Usuários (coleta e análise de feedback contínuo)
+  - Interface de Usuário e Experiência (testes de usabilidade e melhorias)
+  - Preparação e ajustes para Release 2
+
+### Release 2: 24/05/2024
+
+### Sprint 5 (24/05/2024 - 13/06/2024)
+
+- **Sprint Planning:** 24/05/2024
+- **Daily Stand-up:** Todos os dias
+- **Sprint Review:** 13/06/2024
+- **Sprint Retrospective:** 13/06/2024
+- **Backlog Items:**
+  - Feedback dos Usuários (implementação de melhorias com base no feedback)
+  - Interface de Usuário (ajustes finais e personalização)
+  - Testes e validação final das funcionalidades
+  - Preparação para o lançamento final
+  - Documentação completa do produto
+  - Tutoriais e materiais de onboarding
+
+### Summary of Ceremonies and Schedule
+#### Sprint Planning
+
+- **When:** Primeiro dia de cada sprint (01/03, 22/03, 12/04, 03/05, 24/05)
+- **Duration:** Máximo de 4 horas
+
+#### Daily Stand-up
+
+- **When:** Todos os dias da sprint
+- **Duration:** 15 minutos
+
+#### Sprint Review
+
+- **When:** Último dia de cada sprint (21/03, 11/04, 02/05, 23/05, 13/06)
+- **Duration:** Máximo de 2 horas
+
+#### Sprint Retrospective
+
+- **When:** Último dia de cada sprint (21/03, 11/04, 02/05, 23/05, 13/06)
+- **Duration:** Máximo de 1 hora
