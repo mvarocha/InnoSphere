@@ -104,7 +104,7 @@ Para acessar a documentação detalhada, [clique aqui](https://github.com/mvaroc
 - **Duração:** Máximo de 1 hora
 
 ## Plano de Custos do Projeto InnoSphere
-Plano de custo detalhado disponível no arquivo [Plano de Custos InnoSphere.xlsx](./Plano%20de%20Custos%20InnoSphere.xlsx)
+Plano de custo detalhado disponível no arquivo [Plano de Custos InnoSphere.xlsx](https://github.com/mvarocha/InnoSphere/raw/main/Plano%20de%20Custos%20InnoSphere.xlsx)
 
 | Item                          | Custo (R$)        |
 |-------------------------------|-------------------|
