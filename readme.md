@@ -53,7 +53,7 @@ Ferramentas de análise e avaliação para ajudar as equipes a identificar ideia
 <img src='./images/Persona-Maria_Santos.png'>
 
 ## Roadmap
-Para ver o Roadmap detalhado [clique aqui]().
+Para ver o Roadmap detalhado [clique aqui](https://github.com/mvarocha/InnoSphere/tree/main/detalhes#roadmap).
 <img src='./images/Gantt.png'>
 
 
@@ -64,7 +64,7 @@ Para ver o Roadmap detalhado [clique aqui]().
 **Número de Sprints de 3 semanas:** 5 Sprints
 
 Para acessar a planilha de User Story e Backlog, [clique aqui]().<br>
-Para acessar a documentação detalhada, [clique aqui]().
+Para acessar a documentação detalhada, [clique aqui](https://github.com/mvarocha/InnoSphere/tree/main/detalhes#simula%C3%A7%C3%A3o-de-distribui%C3%A7%C3%A3o-do-backlog).
 
 ### Cerimônias Ágeis
 - **Sprint Planning:** Primeiro dia da sprint (máximo de 4 horas)
