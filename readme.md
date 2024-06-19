@@ -63,7 +63,7 @@ Para ver o Roadmap detalhado [clique aqui](https://github.com/mvarocha/InnoSpher
 **Número de Semanas:** 15 semanas
 **Número de Sprints de 3 semanas:** 5 Sprints
 
-Para acessar a planilha de User Story e Backlog, [clique aqui]().<br>
+Para acessar a planilha de User Story e Backlog, [clique aqui](https://github.com/mvarocha/InnoSphere/raw/main/Backlog.xlsx).<br>
 Para acessar a documentação detalhada, [clique aqui](https://github.com/mvarocha/InnoSphere/tree/main/detalhes#simula%C3%A7%C3%A3o-de-distribui%C3%A7%C3%A3o-do-backlog).
 
 ### Cerimônias Ágeis
