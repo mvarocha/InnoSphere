@@ -42,7 +42,7 @@ Ferramentas de análise e avaliação para ajudar as equipes a identificar ideia
 
 ## Project Model Canvas
 
-<img src='./images/ProjectModelCanvas.jpg'>
+<img src='./images/ProjectModelCanvas.png'>
 
 ## Personas
 
