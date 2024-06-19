@@ -63,8 +63,8 @@ Para ver o Roadmap detalhado [clique aqui]().
 **Número de Semanas:** 15 semanas
 **Número de Sprints de 3 semanas:** 5 Sprints
 
-Para acessar a planilha de User Story e Backlog [clique aqui]().
-Para acessar a documentação detalhada de User Stories, Backlog e planejamento da Sprint, [clique aqui]().
+Para acessar a planilha de User Story e Backlog, [clique aqui]().<br>
+Para acessar a documentação detalhada de User Stories, Backlog, planejamento da Sprint, e Roadmap, [clique aqui]().
 
 ### Cerimônias Ágeis
 - **Sprint Planning:** Primeiro dia da sprint (máximo de 4 horas)
